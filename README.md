@@ -71,13 +71,3 @@ CLOUDINARY_CLOUD_NAME= "Replace with yours"
 CLOUDINARY_API_KEY= "Your api key"
 CLOUDINARY_API_SECRET= "Your app secret key"
 ```
-
-## For the Future
-
-If you want to add more, Please don't hesitate to open a [pull request](https://github.com/dhavalCode/ai-image-generator/pulls).
-
-## 👋 Get in Touch
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/dhavalcode?style=social)](https://twitter.com/dhavalCode)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhavalcode)
